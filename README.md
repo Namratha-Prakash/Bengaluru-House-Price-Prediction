@@ -1,2 +1,2 @@
 # Bengaluru-House-Price-Prediction
-Machine Learning Project
+Machine Learning Project to predict Bengaluru house prices.
